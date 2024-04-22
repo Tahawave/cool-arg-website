@@ -1,0 +1,127 @@
+.secondary {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:red;
+}
+.bozo {
+    font-family:'Times New Roman', Times, serif;
+    color:blue;
+}
+.index {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:green;
+}
+.sid {
+    font-family:sans-serif;
+    color:purple;
+}
+.blg {
+    color:purple;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.director {
+    color:black;
+    text-shadow: 15px -5px 2px red;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-style:outset;
+    border-color:red;
+    border-radius: 10px;
+    padding: 5px
+}
+.man {
+    color:silver;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-style:outset;
+    border-color:blue;
+    border-radius: 10px;
+    padding: 5px
+}
+.figure {
+    color:black;
+    text-shadow: 15px -5px 2px orange;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-style:outset;
+    border-color:orange;
+    border-radius: 10px;
+    padding: 5px 
+}
+.final {
+    color:black;
+    background-color:black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.first {
+    background-image: url("https://i1.sndcdn.com/artworks-000483022209-jivjo9-t500x500.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+}
+.random {
+    color:red;
+    text-shadow: 15px -5px 2px orangered;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.passcode {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.java {
+    background-image: url("https://media0.giphy.com/media/3o6ZsXFlVD1yHgxusE/giphy.gif?cid=6c09b952ojq2wu0rdl2iei9jkp3oefnfee5ib5nsfhn47gp7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+}
+.answers {
+    color:black;
+}
+.winner {
+    color:blue
+}
+.code {
+    color:blue
+}
+.ominous {
+    background-image: url("https://i.pinimg.com/originals/a7/d4/09/a7d409d7bae019934e8511a85f8e4ff8.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+}
+.shattered {
+    background-image: url("https://www.icegif.com/wp-content/uploads/2022/06/icegif-941.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+}
+.live {
+    color:black
+
+}
+.haha {
+    color:red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.vigenere {
+    background-image: url("https://media4.giphy.com/media/DvwTCWphjPoXr3U1PE/200w.gif?cid=6c09b952ivssr7tk53ketljm7baf61d830isewz61stqc2t0&ep=v1_gifs_search&rid=200w.gif&ct=g");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;   
+}
+.skills {
+    color:red;
+    font-family:'Times New Roman', Times, serif;
+}
+.now {
+    color:goldenrod;
+    font-family:fantasy;
+}
+.no {
+    background-image: url("https://m.media-amazon.com/images/I/71tNpYbuIsL._AC_UF894,1000_QL80_.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;      
+}
+
