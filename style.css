@@ -124,4 +124,12 @@
     background-position: center;
     background-size:cover;      
 }
-
+.nightmare {
+    color:red;
+    font-family:'Times New Roman', Times, serif;
+}
+.big {
+    color:green;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+}
