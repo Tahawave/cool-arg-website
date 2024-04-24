@@ -6,5 +6,6 @@ return false;
 }
 if (document.getElementById('manipulation').value == password) {
 alert('Correct Password, click OK to enter into the webpage, director!');
+return true;
 }
 }
