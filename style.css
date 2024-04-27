@@ -148,3 +148,10 @@
     background-position: center;
     background-size:cover;
 }
+.dell {
+    background-image: url("https://i.pinimg.com/originals/4c/f7/99/4cf799d7d550effd77cb75481e466652.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;    
+}
